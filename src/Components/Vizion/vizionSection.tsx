@@ -8,7 +8,7 @@ export const VizionSection = () => {
           Da visão à <strong>execução</strong>
         </Title>
         <SubTitle data-aos="fade-up-right" data-aos-duration="600">
-        Sou <strong>Luuiz Developer</strong>, desenvolvedor fMobile/Low-Code e CEO da Four Coders. Minha missão é transformar conceitos em soluções digitais de alto desempenho.
+        Sou <strong>Luuiz Developer</strong>, desenvolvedor Mobile/Low-Code e CEO da Four Coders. Minha missão é transformar conceitos em soluções digitais de alto desempenho.
         </SubTitle>
         <Button href='#links' data-aos="fade-up-right" data-aos-duration="600">
         Saiba Mais <img src="/icons/arrowDown.svg" alt="ícone de seta para baixo" />
