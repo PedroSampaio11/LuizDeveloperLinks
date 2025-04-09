@@ -8,7 +8,7 @@ export const VizionSection = () => {
           Da visão à <strong>execução</strong>
         </Title>
         <SubTitle data-aos="fade-up-right" data-aos-duration="600">
-        Sou <strong>Pedro Sampaio</strong>, desenvolvedor full-stack e CEO da Four Coders. Minha missão é transformar conceitos em soluções digitais de alto desempenho.
+        Sou <strong>Luuiz Developer</strong>, desenvolvedor fMobile/Low-Code e CEO da Four Coders. Minha missão é transformar conceitos em soluções digitais de alto desempenho.
         </SubTitle>
         <Button href='#links' data-aos="fade-up-right" data-aos-duration="600">
         Saiba Mais <img src="/icons/arrowDown.svg" alt="ícone de seta para baixo" />
@@ -67,7 +67,7 @@ all: unset;
   align-items: center;
   font-size: 1.7rem;
   font-weight: bold;
-  background-color: rgba(237, 20, 92, 0.11);
+  background-color: rgba(19, 237, 41, 0.05);
   transition: 0.3s ease ;
   img{
     width: 2.2rem;
@@ -75,7 +75,7 @@ all: unset;
   }
   &:hover{
     transform: scale(1.02);
-    box-shadow: 0 0 11px 2px rgba(237, 20, 92, 0.07);
+    box-shadow: 0 0 11px 2px rgba(19, 237, 41, 0.11);
   }
   @media screen and (min-width: 420px){
     padding: 1rem 0;

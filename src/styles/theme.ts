@@ -1,8 +1,8 @@
 export const theme = {
   colors: {
-    black: "#0F0108",
+    black: "#000f01",
     white: "#FFFFFF",
-    offBlack: "#0F0108",
+    offBlack: "#000f01",
     gray900: "#545454",
     gray600: "#A2A5AA",
     gray500: "#DFDEE3",
@@ -11,7 +11,7 @@ export const theme = {
     gray100: "#FFF9F6",
     bluegray: "#464A55",
     purple900: "#720237",
-    purple500: "#ED145B",
+    purple500: "#13ED28",
     purple400: "#D10F43",
     salmon: "#F95C5C"
   }
